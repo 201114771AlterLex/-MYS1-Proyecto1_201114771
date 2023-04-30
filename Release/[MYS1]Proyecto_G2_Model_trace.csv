@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.00458868904928361,Trabajador.81,Model,1.PagoTaquilla,[Decide] Decide2,Unable to get value of property 'Decide.ConditionOrProbability'.
+0.00458868904928361,Trabajador.81,Model,1.PagoTaquilla,[Decide] Decide2,Referenced definition type 'ModelEntity' does not match executing type 'ModelEntity1'
+
